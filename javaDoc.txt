@@ -1,0 +1,20 @@
+Class SecondClass has JavaDoc comment: 
+/**
+ * This is properly documented class
+ */
+
+
+Method multiplyNum in class SecondClass has JavaDoc comment: 
+/**
+     * This multipleNum() method is used to multiply
+     * Numbers and printing it
+     */
+
+
+Method divideNum in class SecondClass has JavaDoc comment: 
+/**
+     * This is divideNum() method
+     * It is used to divide num
+     */
+
+
